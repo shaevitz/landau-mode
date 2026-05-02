@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/424px-Landau.jpg" alt="Lev Landau in 1962" width="260">
+  <img src="assets/landau.jpg" alt="Lev Landau in 1962" width="260">
 </p>
 
 <p align="center">
