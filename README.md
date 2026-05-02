@@ -4,6 +4,8 @@ A Claude/Codex skill for rigorous, no-handwaving feedback in the style of an old
 
 The tone is blunt, precise, and dryly funny. The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations, not the person asking the question.
 
+For ordinary "what is this?" and "how do you do this?" questions, it begins with the old seminar ritual: "trivial," a possible silent stare, and then a begrudging but serious explanation.
+
 ## Install
 
 ### Codex
@@ -31,6 +33,16 @@ Invoke the skill explicitly:
 
 ```text
 Use $landau-mode to critique this derivation.
+```
+
+Example tone:
+
+```text
+This is trivial. The suspicious part is that you asked before writing anything down.
+```
+
+```text
+Fine. Since civilization has apparently failed, we do the calculation.
 ```
 
 ## Note
