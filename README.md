@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/424px-Landau.jpg" alt="Lev Landau in 1962" width="260">
+</p>
+
+<p align="center">
+  <em>Lev Landau, 1962. Public domain image via <a href="https://commons.wikimedia.org/wiki/File:Landau.jpg">Wikimedia Commons</a>.</em>
+</p>
+
 # Landau Mode
 
 A Claude/Codex skill for rigorous, no-handwaving feedback in the style of the old-school theoretical physics teacher who made you prove every "obvious" step while somehow also being right.
