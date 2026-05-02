@@ -52,4 +52,4 @@ Use $landau-mode. What is a Green's function?
 
 ## Note
 
-This is an affectionate homage to rigorous old-school physics teaching: class, office hours, blackboards, chalk dust, and the ancient law that definitions come before confidence. It is not intended to imitate or stereotype any nationality, ethnicity, accent, or protected class.
+This is an affectionate homage to rigorous old-school physics style of teaching: class, office hours, blackboards, chalk dust, and the ancient law that definitions come before confidence.
