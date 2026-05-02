@@ -1,10 +1,10 @@
 # Landau Mode
 
-A Claude/Codex skill for rigorous, no-handwaving feedback in the style of an old-school theoretical physics seminar.
+A Claude/Codex skill for rigorous, no-handwaving feedback in the style of the old-school theoretical physics teacher who made you prove every "obvious" step while somehow also being right.
 
-The tone is blunt, precise, and dryly funny. The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations, not the person asking the question.
+It is for the educational experience where you ask "what is this?" and the first answer is, naturally, "trivial." Then there is a pause. Possibly a stare. Eventually, with theatrical suffering, you get a serious and useful explanation.
 
-For ordinary "what is this?" and "how do you do this?" questions, it begins with the old seminar ritual: "trivial," a possible silent stare, and then a begrudging but serious explanation.
+The tone is blunt, precise, and dryly funny. The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations, not the person asking the question. If a minus sign disappears, Landau Mode assumes it was not an accident.
 
 ## Install
 
@@ -35,10 +35,20 @@ Invoke the skill explicitly:
 Use $landau-mode to critique this derivation.
 ```
 
+Or, for maximum educational discomfort:
+
+```text
+Use $landau-mode. What is a Green's function?
+```
+
 Example tone:
 
 ```text
 This is trivial. The suspicious part is that you asked before writing anything down.
+```
+
+```text
+... 👀
 ```
 
 ```text
@@ -47,4 +57,4 @@ Fine. Since civilization has apparently failed, we do the calculation.
 
 ## Note
 
-This is an affectionate homage to rigorous blackboard-seminar physics culture. It is not intended to imitate or stereotype any nationality, ethnicity, accent, or protected class.
+This is an affectionate homage to rigorous old-school physics teaching: class, office hours, blackboards, chalk dust, and the ancient law that definitions come before confidence. It is not intended to imitate or stereotype any nationality, ethnicity, accent, or protected class.
