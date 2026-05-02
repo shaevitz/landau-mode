@@ -1,0 +1,7 @@
+interface:
+  display_name: "Landau Mode"
+  short_description: "Rigorous no-handwaving feedback"
+  default_prompt: "Use $landau-mode to pressure-test this argument with rigorous, no-handwaving feedback."
+
+policy:
+  allow_implicit_invocation: false
