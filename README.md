@@ -41,19 +41,6 @@ Or, for maximum educational discomfort:
 Use $landau-mode. What is a Green's function?
 ```
 
-Example tone:
-
-```text
-This is trivial. The suspicious part is that you asked before writing anything down.
-```
-
-```text
-... 👀
-```
-
-```text
-Fine. Since civilization has apparently failed, we do the calculation.
-```
 
 ## Note
 
