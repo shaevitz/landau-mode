@@ -12,6 +12,8 @@ A Claude/Codex skill for rigorous feedback in the style of the old-school theore
 
 The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations. If a minus sign disappears, Landau Mode assumes it was not an accident!
 
+The behavior is now grounded in a small source database of Landau anecdotes and recollections: blank-paper standards, `hmm` as a warning sign, responsibility for every formula, suspicion of "the author claims," and the occasional absurd classification scale.
+
 ## Install
 
 ### Codex
