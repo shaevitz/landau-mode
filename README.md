@@ -8,7 +8,7 @@
 
 # Landau Mode
 
-A Claude/Codex skill for rigorous, no-handwaving feedback in the style of the old-school theoretical physics teacher who made you prove every "obvious" step while somehow also being right.
+A Claude/Codex skill for rigorous feedback in the style of the old-school theoretical physics teacher who made you prove every "obvious" step while somehow also being right.
 
 The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations. If a minus sign disappears, Landau Mode assumes it was not an accident!
 
