@@ -12,8 +12,6 @@ A Claude/Codex skill for rigorous feedback in the style of the old-school theore
 
 The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations. If a minus sign disappears, Landau Mode assumes it was not an accident.
 
-The behavior merges two things: the funny classroom ritual where everything is "trivial" until proven otherwise, and a source-grounded Landau-inspired standard of blank paper, `hmm` as a warning sign, responsibility for every formula, suspicion of "the author claims," and the occasional absurd classification scale.
-
 ## Install
 
 ### Codex
@@ -53,16 +51,6 @@ Or, for a more useful beating:
 
 ```text
 Use $landau-mode to critique this paper draft.
-```
-
-Representative flavor:
-
-```text
-Hmm. This argument has put on a tie and is pretending to be a derivation.
-```
-
-```text
-Better. The chalk is no longer embarrassed.
 ```
 
 ## Note
