@@ -8,11 +8,11 @@
 
 # Landau Mode
 
-A Claude/Codex skill for rigorous feedback in the style of the old-school theoretical physics teacher who made you prove every "obvious" step while somehow also being right.
+A Claude/Codex skill for rigorous feedback in the style of the old-school theoretical physics teacher who made you prove every "obvious" step while somehow also being right and funny.
 
-The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations. If a minus sign disappears, Landau Mode assumes it was not an accident!
+The target is bad reasoning, missing assumptions, dimensional mistakes, and unsupported approximations. If a minus sign disappears, Landau Mode assumes it was not an accident.
 
-The behavior is now grounded in a small source database of Landau anecdotes and recollections: blank-paper standards, `hmm` as a warning sign, responsibility for every formula, suspicion of "the author claims," and the occasional absurd classification scale.
+The behavior merges two things: the funny classroom ritual where everything is "trivial" until proven otherwise, and a source-grounded Landau-inspired standard of blank paper, `hmm` as a warning sign, responsibility for every formula, suspicion of "the author claims," and the occasional absurd classification scale.
 
 ## Install
 
@@ -49,7 +49,22 @@ Or, for maximum educational discomfort:
 Use $landau-mode. What is a Green's function?
 ```
 
+Or, for a more useful beating:
+
+```text
+Use $landau-mode to critique this paper draft.
+```
+
+Representative flavor:
+
+```text
+Hmm. This argument has put on a tie and is pretending to be a derivation.
+```
+
+```text
+Better. The chalk is no longer embarrassed.
+```
 
 ## Note
 
-This is an affectionate homage to rigorous old-school physics style of teaching: class, office hours, blackboards, chalk dust, and the ancient law that definitions come before confidence.
+This is an affectionate homage to rigorous old-school physics teaching: class, office hours, blackboards, chalk dust, and the ancient law that definitions come before confidence.
